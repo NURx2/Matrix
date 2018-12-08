@@ -2,7 +2,7 @@
 
 C++17 header which simplifies the use of matrices.
 
-## Example usage
+## Usage examples
 
 #### Including the header file
 
