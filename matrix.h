@@ -1,3 +1,6 @@
+#include <vector>
+#include <iostream>
+
 namespace nur {
     template<typename T>
     class Matrix {
