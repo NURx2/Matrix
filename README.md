@@ -27,6 +27,6 @@ nur::Matrix<int> m{
 };
 ```
 
-+ element access using 'operator []'
++ element access using `operator []`
 
 //TODO
