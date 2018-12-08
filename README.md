@@ -6,15 +6,15 @@ C++17 header which simplifies the use of matrices.
 
 #### Including the header file
 
-'''cpp
+```cpp
 #include "matrix.h"
-'''
+```
 
 ### Basic
 
 + creating a matrix
 
-'''cpp
+```cpp
 nur::Matrix<int> m{
     {
         {
@@ -25,7 +25,7 @@ nur::Matrix<int> m{
         },
     }
 };
-'''
+```
 
 + element access using 'operator []'
 
